@@ -1,0 +1,73 @@
+.brand-logo-card {
+  position: relative;
+  display: block;
+  background-color: var(--primary-white);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+  aspect-ratio: 1;
+}
+
+.brand-logo-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 25px rgba(155, 216, 152, 0.3);
+}
+
+.brand-logo-image-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  background-color: var(--light-gray);
+}
+
+.brand-logo-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.brand-logo-card:hover .brand-logo-image {
+  transform: scale(1.05);
+}
+
+.brand-logo-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, rgba(26, 26, 26, 0.9), transparent);
+  padding: 20px;
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+}
+
+.brand-logo-card:hover .brand-logo-overlay {
+  transform: translateY(0);
+}
+
+.brand-logo-name {
+  color: var(--primary-white);
+  font-weight: 600;
+  font-size: 1rem;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .brand-logo-image-container {
+    padding: 20px;
+  }
+
+  .brand-logo-overlay {
+    padding: 15px;
+  }
+
+  .brand-logo-name {
+    font-size: 0.9rem;
+  }
+}

@@ -1,0 +1,133 @@
+.brand-partners {
+  padding-top: 70px;
+}
+
+.brand-partners-hero {
+  position: relative;
+  height: 50vh;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&auto=format&fit=crop&w=2074&q=80');
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+.brand-partners-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(26, 26, 26, 0.8), rgba(26, 26, 26, 0.6));
+}
+
+.brand-partners-hero-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  color: var(--primary-white);
+  padding: 0 20px;
+}
+
+.brand-partners-hero-content h1 {
+  font-size: 3.5rem;
+  margin-bottom: 15px;
+  color: var(--primary-white);
+}
+
+.brand-partners-hero-content p {
+  font-size: 1.3rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.brand-partners-content {
+  background-color: var(--primary-white);
+}
+
+.brand-partners-intro {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 60px;
+}
+
+.brand-partners-intro h2 {
+  color: var(--text-dark);
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+}
+
+.brand-partners-intro p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-gray);
+}
+
+.brands-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+  margin-bottom: 80px;
+}
+
+.brand-partners-cta {
+  text-align: center;
+  padding: 60px 40px;
+  background-color: var(--light-gray);
+  border-radius: 12px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.brand-partners-cta h3 {
+  color: var(--text-dark);
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.brand-partners-cta p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  color: var(--text-gray);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .brand-partners-hero {
+    height: 40vh;
+    min-height: 300px;
+  }
+
+  .brand-partners-hero-content h1 {
+    font-size: 2.5rem;
+  }
+
+  .brand-partners-hero-content p {
+    font-size: 1.1rem;
+  }
+
+  .brand-partners-intro h2 {
+    font-size: 2rem;
+  }
+
+  .brands-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+
+  .brand-partners-cta {
+    padding: 40px 20px;
+  }
+
+  .brand-partners-cta h3 {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .brands-grid {
+    grid-template-columns: 1fr;
+  }
+}
