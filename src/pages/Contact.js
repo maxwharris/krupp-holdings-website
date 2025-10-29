@@ -41,7 +41,7 @@ function Contact() {
                   <div className="contact-icon">📧</div>
                   <div className="contact-item-content">
                     <h3>Email</h3>
-                    <a href="mailto:info@kruppholdings.com">info@kruppholdings.com</a>
+                    <a href="mailto:mkrupp@kruppcapital.com">mkrupp@kruppcapital.com</a>
                   </div>
                 </div>
 
