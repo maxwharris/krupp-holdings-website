@@ -49,7 +49,7 @@ function Contact() {
                   <div className="contact-icon">💼</div>
                   <div className="contact-item-content">
                     <h3>LinkedIn</h3>
-                    <a href="https://linkedin.com/company/krupp-holdings" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/mitchell-krupp-682a557/" target="_blank" rel="noopener noreferrer">
                       Connect with us on LinkedIn
                     </a>
                   </div>
@@ -65,8 +65,8 @@ function Contact() {
             </div>
 
             <div className="contact-form-container">
-              <form 
-                action="https://formsubmit.co/your-email@example.com" 
+              <form
+                action="https://formsubmit.co/mkrupp@kruppcapital.com"
                 method="POST"
                 className="contact-form"
               >
