@@ -65,11 +65,6 @@ function BrandPartners() {
       image: '/brands/roar.png'
     },
     {
-      name: 'League of Play',
-      link: 'https://leagueofplay.com/',
-      image: '/brands/leagueofplay.png'
-    },
-    {
       name: 'Foods You Know',
       link: 'https://www.foodsyouknow.com/',
       image: '/brands/foodsyouknow.png'
@@ -85,14 +80,29 @@ function BrandPartners() {
       image: '/brands/packable.png'
     },
     {
-      name: 'Sato Shiki',
-      link: 'https://satoshiki.com/',
-      image: '/brands/satoshiki.png'
-    },
-    {
       name: 'Acadaca',
       link: 'https://www.acadaca.com/',
       image: '/brands/acadaca.jpg'
+    },
+    {
+      name: 'Dry Water',
+      link: 'https://drywater.com',
+      image: '/brands/drywater.svg'
+    },
+    {
+      name: 'Durational Capital Management',
+      link: 'https://durational.com',
+      image: '/brands/durational.png'
+    },
+    {
+      name: 'Garage Beer',
+      link: 'https://drinkgaragebeer.com',
+      image: '/brands/garagebeer.png'
+    },
+    {
+      name: 'Raptor Group',
+      link: 'https://raptorgroup.com',
+      image: '/brands/raptor.svg'
     }
   ];
 
