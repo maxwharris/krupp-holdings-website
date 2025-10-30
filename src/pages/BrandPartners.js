@@ -7,92 +7,92 @@ function BrandPartners() {
     {
       name: 'Liquid Death',
       link: 'https://liquiddeath.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Liquid+Death'
+      image: '/brands/liquiddeath.png'
     },
     {
-      name: 'SaintJames Tea',
+      name: 'SaintJames Iced Tea',
       link: 'https://saintjamesicedtea.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=SaintJames+Tea'
+      image: '/brands/saintjamesicedtea.avif'
     },
     {
       name: 'Highground',
       link: 'https://highgroundchips.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Highground'
+      image: '/brands/highground.avif'
     },
     {
       name: 'Drip',
       link: 'https://www.thedrip.vip/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Drip'
+      image: '/brands/drip.png'
     },
     {
       name: '458 Capital',
       link: 'https://www.458capital.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=458+Capital'
+      image: '/brands/458capital.jpg'
     },
     {
       name: 'Chlorophyll Water',
       link: 'https://chlorophyllwater.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Chlorophyll+Water'
+      image: '/brands/chlorophyllwater.png'
     },
     {
       name: 'Malk',
       link: 'https://malkorganics.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Malk'
+      image: '/brands/malk.avif'
     },
     {
       name: 'Chipoys',
       link: 'https://chipoys.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Chipoys'
+      image: '/brands/chipoys.svg'
     },
     {
       name: 'Afterlife',
       link: 'https://www.afterlifeag.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Afterlife'
+      image: '/brands/afterlife.png'
     },
     {
       name: 'Overeasy',
       link: 'https://overeasyfoods.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Overeasy'
+      image: '/brands/overeasy.png'
     },
     {
       name: 'Cathead Distillery',
       link: 'https://catheaddistillery.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Cathead+Distillery'
+      image: '/brands/cathead.svg'
     },
     {
       name: 'Roar Organic',
       link: 'https://roarorganic.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Roar+Organic'
+      image: '/brands/roar.png'
     },
     {
       name: 'League of Play',
       link: 'https://leagueofplay.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=League+of+Play'
+      image: '/brands/leagueofplay.png'
     },
     {
       name: 'Foods You Know',
       link: 'https://www.foodsyouknow.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Foods+You+Know'
+      image: '/brands/foodsyouknow.png'
     },
     {
-      name: 'Juice Press',
+      name: 'JuicePress',
       link: 'https://www.juicepress.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Juice+Press'
+      image: '/brands/juicepress.jpg'
     },
     {
       name: 'Packable',
       link: 'https://www.packable.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Packable'
+      image: '/brands/packable.png'
     },
     {
       name: 'Sato Shiki',
       link: 'https://satoshiki.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Sato+Shiki'
+      image: '/brands/satoshiki.png'
     },
     {
       name: 'Acadaca',
       link: 'https://www.acadaca.com/',
-      image: 'https://via.placeholder.com/300x300/9bd898/1a1a1a?text=Acadaca'
+      image: '/brands/acadaca.jpg'
     }
   ];
 
