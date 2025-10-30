@@ -85,7 +85,7 @@ function BrandPartners() {
       image: '/brands/acadaca.jpg'
     },
     {
-      name: 'Dry Water',
+      name: 'DryWater',
       link: 'https://drywater.com',
       image: '/brands/drywater.svg'
     },
