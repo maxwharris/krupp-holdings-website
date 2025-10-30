@@ -15,19 +15,9 @@ function BrandPartners() {
       image: '/brands/saintjamesicedtea.avif'
     },
     {
-      name: 'Highground',
-      link: 'https://highgroundchips.com/',
-      image: '/brands/highground.avif'
-    },
-    {
-      name: 'Drip',
-      link: 'https://www.thedrip.vip/',
-      image: '/brands/drip.png'
-    },
-    {
-      name: '458 Capital',
-      link: 'https://www.458capital.com/',
-      image: '/brands/458capital.jpg'
+      name: 'Garage Beer',
+      link: 'https://drinkgaragebeer.com',
+      image: '/brands/garagebeer.png'
     },
     {
       name: 'Chlorophyll Water',
@@ -35,54 +25,9 @@ function BrandPartners() {
       image: '/brands/chlorophyllwater.png'
     },
     {
-      name: 'Malk',
-      link: 'https://malkorganics.com/',
-      image: '/brands/malk.avif'
-    },
-    {
-      name: 'Chipoys',
-      link: 'https://chipoys.com/',
-      image: '/brands/chipoys.svg'
-    },
-    {
-      name: 'Afterlife',
-      link: 'https://www.afterlifeag.com/',
-      image: '/brands/afterlife.png'
-    },
-    {
-      name: 'Overeasy',
-      link: 'https://overeasyfoods.com/',
-      image: '/brands/overeasy.png'
-    },
-    {
-      name: 'Cathead Distillery',
-      link: 'https://catheaddistillery.com/',
-      image: '/brands/cathead.svg'
-    },
-    {
-      name: 'Roar Organic',
-      link: 'https://roarorganic.com/',
-      image: '/brands/roar.png'
-    },
-    {
-      name: 'Foods You Know',
-      link: 'https://www.foodsyouknow.com/',
-      image: '/brands/foodsyouknow.png'
-    },
-    {
-      name: 'JuicePress',
-      link: 'https://www.juicepress.com/',
-      image: '/brands/juicepress.jpg'
-    },
-    {
-      name: 'Packable',
-      link: 'https://www.packable.com/',
-      image: '/brands/packable.png'
-    },
-    {
-      name: 'Acadaca',
-      link: 'https://www.acadaca.com/',
-      image: '/brands/acadaca.jpg'
+      name: 'Highground',
+      link: 'https://highgroundchips.com/',
+      image: '/brands/highground.avif'
     },
     {
       name: 'DryWater',
@@ -90,19 +35,64 @@ function BrandPartners() {
       image: '/brands/drywater.svg'
     },
     {
+      name: 'Overeasy',
+      link: 'https://overeasyfoods.com/',
+      image: '/brands/overeasy.png'
+    },
+    {
+      name: 'Malk',
+      link: 'https://malkorganics.com/',
+      image: '/brands/malk.avif'
+    },
+    {
+      name: 'Roar Organic',
+      link: 'https://roarorganic.com/',
+      image: '/brands/roar.png'
+    },
+    {
+      name: 'Afterlife',
+      link: 'https://www.afterlifeag.com/',
+      image: '/brands/afterlife.png'
+    },
+    {
+      name: 'Drip',
+      link: 'https://www.thedrip.vip/',
+      image: '/brands/drip.png'
+    },
+    {
+      name: 'Foods You Know',
+      link: 'https://www.foodsyouknow.com/',
+      image: '/brands/foodsyouknow.png'
+    },
+    {
+      name: 'Chipoys',
+      link: 'https://chipoys.com/',
+      image: '/brands/chipoys.svg'
+    },
+    {
       name: 'Durational Capital Management',
       link: 'https://durational.com',
       image: '/brands/durational.png'
     },
     {
-      name: 'Garage Beer',
-      link: 'https://drinkgaragebeer.com',
-      image: '/brands/garagebeer.png'
-    },
-    {
       name: 'Raptor Group',
       link: 'https://raptorgroup.com',
       image: '/brands/raptor.svg'
+    },
+    {
+      name: '458 Capital',
+      link: 'https://www.458capital.com/',
+      image: '/brands/458capital.jpg'
+    },
+    {
+      name: 'Acadaca',
+      link: 'https://www.acadaca.com/',
+      image: '/brands/acadaca.jpg'
+    },
+    {
+      name: 'Packable',
+      link: 'https://www.packable.com/',
+      image: '/brands/packable.png'
     }
   ];
 
