@@ -8,7 +8,7 @@ function Home() {
       <section className="hero">
         <div className="hero-overlay"></div>
         <div className="hero-content">
-          <h1 className="hero-logo fade-in">KRUPP HOLDINGS</h1>
+          <h1 className="hero-logo fade-in">KRUPP HOLDINGS LLC</h1>
           <p className="hero-subtitle fade-in">Propelling Early-Stage Companies to Sustainable Growth</p>
           <div className="hero-buttons fade-in">
             <Link to="/about" className="btn btn-primary">Learn More</Link>
