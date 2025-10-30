@@ -42,7 +42,7 @@ function BrandPartners() {
     {
       name: 'Malk',
       link: 'https://malkorganics.com/',
-      image: '/brands/malk.avif'
+      image: '/brands/malk.png'
     },
     {
       name: 'Roar Organic',
